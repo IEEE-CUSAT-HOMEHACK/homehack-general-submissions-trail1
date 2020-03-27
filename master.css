@@ -1,0 +1,22 @@
+
+body
+{
+    background-image: url("puppy.jpg");
+    background-repeat: ;
+}
+h1 { font-family: 'Mansalva', cursive;
+    color:#db7093}
+p { color:#1B1B1B}
+.first{ font-family: 'Roboto Slab', serif;
+    color:purple;
+    margin: 0 0 0 0;
+}
+.sec{ font-family: "Arial Black";
+    color:blueviolet}
+
+
+#custom {
+    color:red;
+    margin: 0 0 0 0;
+      
+}
